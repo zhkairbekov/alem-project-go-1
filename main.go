@@ -1,7 +1,7 @@
 package main
 
 import (
-	files "crunch02/files"
+	files "alem-project-go-1/files"
 	"fmt"
 )
 
